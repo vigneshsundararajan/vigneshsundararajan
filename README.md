@@ -9,7 +9,7 @@ I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue Un
 - I'm currently a part of <a href="https://www.purdueelectricracing.tech/">Purdue Electric Racing</a> as an Aerodynamics Team Member where I work on designing and simulating aero elements for the vehicle. You can read more <a href="https://vigneshsundararajan.github.io/blog/per/">here</a>
 - I'm also pursuing coursework and working on projects in Robotics and Computer Vision, Deep Learning, and more!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=SRGAN-tf2)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=SRGAN-tf2)](https://github.com/vigneshsundararajan/SRGAN-tf2)
 
 ---
 ### My GitHub Stats 📈
