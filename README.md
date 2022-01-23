@@ -1,5 +1,27 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/68025565/150694030-8bf0a3e3-1156-43ba-a52f-e468907bb059.jpeg)
 
+### Hello! I'm Vignesh 👋🏽
+
+I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue University</a> studying Aeronautics and Astronautics. My degree focus is Systems Engineering, with a minor in AI and Computer Vision.
+
+---
+
+### What I'm working on 🤖
+
+- I'm currently a part of <a href="https://www.purdueelectricracing.tech/">Purdue Electric Racing</a> as an Aerodynamics Team Member where I work on designing and simulating aero elements for the vehicle. You can read more <a href="https://vigneshsundararajan.github.io/blog/per/">here</a>
+- I'm also pursuing coursework and working on projects in Robotics and Computer Vision, Deep Learning, and more!
+
+---
+### My GitHub Stats 📈
+
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshsundararajan&show_icons=true) &emsp; &emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshsundararajan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+--- 
+### Connect with me 🤝
+
+<a href="https://www.linkedin.com/in/sundararajan-vignesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/vigneshsundararajan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <!--
 **vigneshsundararajan/vigneshsundararajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
