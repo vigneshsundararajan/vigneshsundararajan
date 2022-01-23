@@ -2,7 +2,7 @@
 
 ### Hello! I'm Vignesh 👋🏽
 
-I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue University</a> studying Aeronautics and Astronautics. My degree focus is Systems Engineering, with a minor in AI and Computer Vision.
+I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue University</a> studying Aeronautics and Astronautics. My degree focus is Aerospace Systems, with a minor in AI and Computer Vision.
 
 ---
 
