@@ -10,6 +10,7 @@ I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue Un
 - I'm also pursuing coursework and working on projects in Robotics, Computer Vision and Machine Learning. Read more about an end-to-end Robotics course project I'm working on <a href="https://vigneshsundararajan.github.io/blog/autsys/">here</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=SRGAN-tf2)](https://github.com/vigneshsundararajan/SRGAN-tf2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=object-tracking-ROS)](https://github.com/vigneshsundararajan/object-tracking-ROS)
 
 ---
 ### My GitHub Stats 📈
