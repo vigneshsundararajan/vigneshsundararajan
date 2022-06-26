@@ -11,6 +11,7 @@ I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue Un
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=SRGAN-tf2)](https://github.com/vigneshsundararajan/SRGAN-tf2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=object-tracking-ROS)](https://github.com/vigneshsundararajan/object-tracking-ROS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=nvim-config)](https://github.com/vigneshsundararajan/nvim-config)
 
 ---
 ### My GitHub Stats 📈
