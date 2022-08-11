@@ -1,13 +1,13 @@
 ### Hello! I'm Vignesh 👋🏽
 
-I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue University</a> studying Aeronautics and Astronautics. My degree focus is Aerospace Systems, with a minor in AI and Autonomy.
+I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue University</a> studying Aeronautics and Astronautics. My degree focus is Aerospace Systems, with a minor in Autonomy and Control.
 
 ---
 
 ### What I'm working on 🤖
 
 - I'm currently a part of <a href="https://www.purdueelectricracing.tech/">Purdue Electric Racing</a> as an Aerodynamics Team Member where I work on designing and simulating aero elements for the vehicle. You can read more <a href="https://vigneshsundararajan.github.io/blog/per/">here</a>
-- I'm also pursuing coursework and working on projects in Robotics, Autonomy and Machine Learning. Read more about a project I recently worked on <a href="https://vigneshsundararajan.github.io/blog/autsys/">here</a>
+- I'm also pursuing coursework and working on projects in Robotics, Autonomy and Machine Learning. Read more about a project I recently worked on <a href="https://vigneshsundararajan.github.io/blog/monovision-nav/">here</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=SRGAN-tf2)](https://github.com/vigneshsundararajan/SRGAN-tf2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=object-tracking-ROS)](https://github.com/vigneshsundararajan/object-tracking-ROS)
