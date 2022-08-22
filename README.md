@@ -6,7 +6,8 @@ I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue Un
 
 ### What I'm working on 🤖
 
-- I'm currently a part of <a href="https://www.purdueelectricracing.tech/">Purdue Electric Racing</a> as an Aerodynamics Team Member where I work on designing and simulating aero elements for the vehicle. You can read more <a href="https://vigneshsundararajan.github.io/blog/per/">here</a>
+- I'm currently working as a Graduate Data Science researcher for <a href="https://datamine.purdue.edu">The Purdue Data Mine</a> on a project in collaboration with <a href="https://www.deere.com/en/">John Deere</a> to conserve wildlife and maximizing usable farmland using Machine Learning.
+- I worked at <a href="https://www.purdueelectricracing.tech/">Purdue Electric Racing</a> as an Aerodynamics Team Member from 2021-2022 where I was involved with designing and simulating aero elements for the vehicle. You can read more <a href="https://vigneshsundararajan.github.io/blog/per/">here</a>
 - I'm also pursuing coursework and working on projects in Robotics, Autonomy and Machine Learning. Read more about a project I recently worked on <a href="https://vigneshsundararajan.github.io/blog/monovision-nav/">here</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=SRGAN-tf2)](https://github.com/vigneshsundararajan/SRGAN-tf2)
