@@ -1,13 +1,13 @@
 ### Hello! I'm Vignesh 👋🏽
 
-I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue University</a> studying Aeronautics and Astronautics. My degree focus is Aerospace Systems, with a minor in Autonomy and Control.
+I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue University</a> studying Aeronautics and Astronautics. My degree concentration is Autonomous Systems and Control
 
 ---
 
 ### What I'm working on 🤖
 
+- I'm currently working as a Graduate Researcher at the [Center for Integrated Systems in Aerospace](https://engineering.purdue.edu/SoSL), where my focus is on doing systems integration and modeling for an autonomous national Urban Air Mobility focused transport infrastructure using ROS2, C++ and agent based modeling in Python.
 - I'm currently working as a Technical Project Manager - Data Science at <a href="https://datamine.purdue.edu">The Purdue Data Mine</a> in collaboration with <a href="https://www.deere.com/en/">John Deere</a> to conserve wildlife and maximize usable farmland using Machine Learning.
-- I'm also currently working as a Graduate Researcher at the [Center for Integrated Systems in Aerospace](https://engineering.purdue.edu/SoSL), where my focus is on implementing an autonomous emergency handling framework for a national Urban Air Mobility focused transport infrastructure.
 - I worked at <a href="https://www.purdueelectricracing.tech/">Purdue Electric Racing</a> as an Aerodynamics Team Member from 2021-2022 where I was involved with designing and simulating aero elements for the vehicle. You can read more <a href="https://vigneshsundararajan.github.io/blog/per/">here</a>
 - I'm also pursuing coursework and working on projects in Robotics, Autonomy and Machine Learning. Read more about a project I recently worked on <a href="https://vigneshsundararajan.github.io/blog/monovision-nav/">here</a>
 
