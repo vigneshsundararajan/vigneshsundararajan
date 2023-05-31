@@ -1,29 +1,25 @@
 ### Hello! I'm Vignesh 👋🏽
 
-I'm a Graduate Student at <a href="https://engineering.purdue.edu/AAE">Purdue University</a> studying Aeronautics and Astronautics. My degree concentration is Autonomous Systems and Control
+I'm a Purdue grad who loves to build clean, intentional experiences that bring people joy
 
 ---
 
-### What I'm working on 🤖
+### About Me
 
-- I'm currently working as a Graduate Researcher at the [Center for Integrated Systems in Aerospace](https://engineering.purdue.edu/SoSL), where my focus is on doing systems integration and modeling for an autonomous national Urban Air Mobility focused transport infrastructure using ROS2, C++ and agent based modeling in Python.
-- I'm currently working as a Technical Project Manager - Data Science at <a href="https://datamine.purdue.edu">The Purdue Data Mine</a> in collaboration with <a href="https://www.deere.com/en/">John Deere</a> to conserve wildlife and maximize usable farmland using Machine Learning.
-- I worked at <a href="https://www.purdueelectricracing.tech/">Purdue Electric Racing</a> as an Aerodynamics Team Member from 2021-2022 where I was involved with designing and simulating aero elements for the vehicle. You can read more <a href="https://vigneshsundararajan.github.io/blog/per/">here</a>
-- I'm also pursuing coursework and working on projects in Robotics, Autonomy and Machine Learning. Read more about a project I recently worked on <a href="https://vigneshsundararajan.github.io/blog/monovision-nav/">here</a>
+During my time at Purdue, I led the Research Subteam for a Space Exploration focused club (SEARCH), while also setting the initial design philosophy for the organization. Take a look at one of the [Keynote intros](https://youtu.be/BBiDQPIS-Bw) I designed using Apple Keynote! I also conducted research with the [Center for Integrated Systems in Aerospace](https://engineering.purdue.edu/SoSL) at Purdue on a [NASA ULI](https://www.nasa.gov/aeroresearch/programs/tacp/ui-uli) project, where my focus was doing systems integration of over 15 research teams, and implementing an autonomous decision framework for handling emergencies in a national Urban Air Mobility infrastructure.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=SRGAN-tf2)](https://github.com/vigneshsundararajan/SRGAN-tf2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=object-tracking-ROS)](https://github.com/vigneshsundararajan/object-tracking-ROS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=nvim-config)](https://github.com/vigneshsundararajan/nvim-config)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=monovision-nav)](https://github.com/vigneshsundararajan/monovision-nav)
+I also worked as a Technical PM for the [Purdue Data Mine](https://www.datamine.purdue.edu) in collaboration with John Deere, where we are developed a first of it’s kind, end-to-end ML tool to predict ideal land candidates for wildlife conservation. Previously, I was also involved with [Purdue Electric Racing](https://www.purdueelectricracing.tech/), where I nurtured my love for motorsport, working as an Aerodynamicist for about a year.
+
+My GitHub page is a place for all the projects I've worked on in AI, Robotics and more. Be sure to check out my Neovim config!
 
 ---
-### My GitHub Stats 📈
+### My GitHub Stats 
 
 ![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshsundararajan&show_icons=true) &emsp; &emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshsundararajan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
-### Connect with me 🤝
+### Connect with me 
 
 <a href="https://www.linkedin.com/in/sundararajan-vignesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/vigneshsundararajan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
