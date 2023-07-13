@@ -16,10 +16,10 @@ My GitHub page is a place for all the projects I've worked on in AI, Robotics an
 ### My GitHub Stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=nvim-config" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=nvim-config" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshsundararajan&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshsundararajan&layout=compact&langs_count=8&card_width=350" />
 </a>
 
 --- 
