@@ -1,6 +1,6 @@
 ### Hello! I'm Vignesh 👋🏽
 
-I'm a Purdue grad who loves to build clean, intentional experiences that bring people joy
+I'm a Purdue grad who loves to build clean, intentional experiences that bring people joy.
 
 ---
 
@@ -15,8 +15,12 @@ My GitHub page is a place for all the projects I've worked on in AI, Robotics an
 ---
 ### My GitHub Stats 
 
-![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshsundararajan&show_icons=true) &emsp; &emsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshsundararajan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshsundararajan&repo=nvim-config" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshsundararajan&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 --- 
 ### Connect with me 
