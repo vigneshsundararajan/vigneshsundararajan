@@ -1,4 +1,4 @@
-### Hello! I'm Vignesh 👋🏽
+### Hello. I'm Vignesh
 
 I'm a Purdue grad who loves using data to tell compelling stories.
 
